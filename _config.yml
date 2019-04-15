@@ -1,0 +1,5 @@
+url: "https://www.manjunathbetadur.dev"
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
